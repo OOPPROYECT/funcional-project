@@ -34,8 +34,3 @@ Los atributos de las clases se encuentran privados y son accedidos mediante gett
 ## Excepciones personalizadas
 
 ## Herencia
-
-
-public String getNombre(){
-    return nombre;
-}
